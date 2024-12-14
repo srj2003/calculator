@@ -18,7 +18,7 @@ A simple, visually appealing calculator application built using **Tkinter** with
 
 ## Image
 
-Place your image below:
+
 
 ![Calculator Screenshot](view.png)
 
