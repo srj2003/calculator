@@ -16,6 +16,12 @@ A simple, visually appealing calculator application built using **Tkinter** with
 - Python 3.x
 - Tkinter (built-in with Python)
 
+## Image
+
+Place your image below:
+
+![Calculator Screenshot](view.png)
+
 ## How to Run
 
 1. Clone the repository or copy the `calculator.py` file.
